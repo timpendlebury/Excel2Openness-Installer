@@ -13,8 +13,8 @@ This tool provides a streamlined, engineering-centred interface between Excel an
 
 1. Download the latest `.msi` installer
 2. Run the installer
-3. Open the Excel template from the desktop icon
-4. The Excel2Openness add-in will load automatically
+3. Open the Excel template from the added desktop icon 'Excel2Openness'
+4. The Excel2Openness worksheet and add-in will load automatically
 
 ---
 
