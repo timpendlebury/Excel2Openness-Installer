@@ -1,5 +1,5 @@
 # Excel2Openness-Installer
-This tool provides a streamlined, engineering-centred interface between Excel and the ABT Site. Excel2Openness is an independent tool that enables Excel-based interaction with ABT Openness via a gRPC interface.
+This tool provides a streamlined, engineering-centred interface between Excel and ABT Site. Excel2Openness is an independent tool that enables Excel-based interaction with ABT Openness via a gRPC interface.
 
 ---
 
