@@ -35,6 +35,7 @@ These helper scripts are installed here:
 C:\Program Files\Excel2Openness\InstallerScripts\
 ```
 After running the registration script, close and reopen Excel.
+
 ---
 
 ## 🔔 Stay Updated
